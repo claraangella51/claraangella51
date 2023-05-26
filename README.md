@@ -2,7 +2,6 @@
 ## About me:
 - 🔭 I’m currently studying at [RevoU](https://revou.co/) and [State University of Jakarta](https://www.unj.ac.id/)
 - 🌱 I’m currently learning about data analytics
-- 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggestion in becoming a Data Analyst
 - 💬 Feel free to discuss anything with me
 - 📫 How to reach me: claraangella51@gmail.com
