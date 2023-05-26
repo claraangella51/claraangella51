@@ -17,6 +17,6 @@
 #### 3. [Statement of Achievement by LBPP LIA](https://drive.google.com/file/d/1VCNcxTNyyL42vhW94Fyipm1h6igAJDr5/view) `2019`
 
 ## Connect with me
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/clara-angella-harsono-699ab6228#gh-light-mode-only)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/clara-angella-harsono-699ab6228#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/clara-angella-harsono-699ab6228#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://www.linkedin.com/in/clara-angella-harsono-699ab6228#gh-dark-mode-only)
 
